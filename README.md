@@ -126,7 +126,7 @@ The original assignment provided a set of requirements and test-related tasks ar
 ## Repository
 
 **GitHub:**  
-https://github.com/Maxwel-Araujo-Costa/TDD-Test-Driven-Development--Avaliacao---2020_1
+https://github.com/Maxwel-Araujo-Costa/pizza-ordering-tdd
 
 ---
 
